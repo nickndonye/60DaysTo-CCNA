@@ -19,7 +19,7 @@ Study and practice CCNA concepts consistently for 60 days while building practic
 
 | Day | Date | Topic Studied | CCNA Domain | Lab/Activity Completed | Status |
 |-----|------|--------------|------------|-----------------------|--------|
-| 1 | | | | | ⬜ |
+| 1 | 09-Jul-2026 | VLANs and Trunking | Network Access | Configured VLAN 10,20,30 and trunk ports in Packet Tracer | ✅🧪 |
 | 2 | | | | | ⬜ |
 | 3 | | | | | ⬜ |
 | 4 | | | | | ⬜ |
